@@ -1,4 +1,4 @@
-# geldAutomat
+# GeldAutomat
 ## Algorithmus für einen Geldwechsel-Automaten
 Dieser Algorithmus soll einen eingegebenen **Betrag** *x* in Kleingeld, d.h. Münzen, wieder ausgeben. Dabei sollen möglichst wenig Münzen zurückgegeben werden.
 Der Automat hat Zugriff auf so viele Münzen, wie er benötigt. Geldscheine kann er jedoch nicht ausgeben.
